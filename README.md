@@ -16,3 +16,5 @@ Project includes the preliminary analysis and machine learning classifier model 
 * **Death Event** - if the patient deceased during the follow-up period.
 
 All features are described on the kaggle page. You can find there everything about this data set. (https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data)
+
+## Analysis
