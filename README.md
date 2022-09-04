@@ -18,4 +18,4 @@ Project includes the preliminary analysis and machine learning classifier model 
 All features are described on the kaggle page. You can find there everything about this data set. (https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data)
 
 ## Analysis
-I started the preliminary analysis from displaying the data and checking the shape and data types. The next step was verifying all the NaN data. As we have seen, the dataset is free of missing data. Afterwards I decided to change all boolean data into strings such as: 1 : 'Yes' and 0 : 'No'.
+I started the preliminary analysis from displaying the data and checking the shape and data types. The next step was verifying all the NaN data. As we have seen, the dataset is free of missing data. Afterwards I decided to copy the original dataset and change all boolean data into strings with the rule: 1 : 'Yes' and 0 : 'No'. Basics statistics and histograms gave us an initial insight into the data.
