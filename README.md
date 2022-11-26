@@ -1,4 +1,4 @@
-# Heart Failure Analysis & Prediction
+# Heart Failure Analysis & Classifier Model
 Project includes the preliminary analysis and machine learning classifier model for the Heart Failure dataset. Clinical records come from the kaggle collection. The dataset contains columns such as:
 
 * **Age**,
